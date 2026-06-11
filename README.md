@@ -56,34 +56,25 @@ Group customers into meaningful segments for targeted marketing and customer rel
 
 ## 📷 Project Screenshots
 
-### Dashboard Overview
+## 📊 Dashboard Overview
 
-![Dashboard](CustomerIQ_Dashboard_Overview.png)
+![Dashboard](Customer_segmentation%20overview/Dashboard_Overview.png)
 
----
+## 🍩 Customer Distribution by Cluster
 
-### Customer Distribution by Cluster
+![Pie Chart](Customer_segmentation%20overview/Pie_chart.png)
 
-![Pie Chart](CustomerIQ_Pie%20chart.png)
+## 🎯 Customer Segmentation
 
----
+![Segmentation](Customer_segmentation%20overview/Segmentation.png)
 
-### Customer Segmentation
+## 🚀 3D Cluster Analysis
 
-![Segmentation](CustomerIQ_Segmentation.png)
+![3D Analysis](Customer_segmentation%20overview/3D_Cluster_Analysis.png)
 
----
+## 📋 Customer Insights
 
-### 3D Cluster Analysis
-
-![3D Analysis](CustomerIQ_3D%20Cluster%20Analysis.png)
-
----
-
-### Customer Insights
-
-![Insights](CustomerIQ_Insights.png)
-
+![Insights](Customer_segmentation%20overview/Insights.png)
 ---
 
 ## 📂 Project Structure
