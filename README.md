@@ -58,31 +58,31 @@ Group customers into meaningful segments for targeted marketing and customer rel
 
 ### Dashboard Overview
 
-![Dashboard](Dashboard_Overview.png)
+![Dashboard](CustomerIQ_Dashboard_Overview.png)
 
 ---
 
 ### Customer Distribution by Cluster
 
-![Pie Chart](Pie_chart.png)
+![Pie Chart](CustomerIQ_Pie%20chart.png)
 
 ---
 
 ### Customer Segmentation
 
-![Segmentation](Segmentation.png)
+![Segmentation](CustomerIQ_Segmentation.png)
 
 ---
 
 ### 3D Cluster Analysis
 
-![3D Analysis](3D_Cluster_Analysis.png)
+![3D Analysis](CustomerIQ_3D%20Cluster%20Analysis.png)
 
 ---
 
 ### Customer Insights
 
-![Insights](Insights.png)
+![Insights](CustomerIQ_Insights.png)
 
 ---
 
@@ -154,5 +154,3 @@ B.E. Artificial Intelligence and Machine Learning
 KPR Institute of Engineering and Technology
 
 ---
-
-⭐ If you found this project useful, consider giving it a star!
